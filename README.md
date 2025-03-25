@@ -1,21 +1,18 @@
 # Cursor-CHART-STR-analysis
 
-## Description
-Analysis of 94 STR peak sites
+## 94 STR Peak Sites Analysis
 
-## Features
-- STR peak site analysis
-- Data processing capabilities
-- Statistical analysis tools
+### Description
+Analysis and characterization of 94 STR peak sites for genetic profiling
 
-## Usage
-Describe how to use your STR analysis tools here
+### Methods
+- Data collection process
+- Analysis techniques used
+- Statistical methods employed
 
-## Data
-Information about the 94 STR peak sites
+### Results
+Key findings from the STR analysis
 
-## Results
-Summary of key findings
-
-# 94 STR peak sites 
+### Contact
+Your contact information or lab details
 
